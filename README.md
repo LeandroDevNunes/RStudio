@@ -1,2 +1,2 @@
-# RStudio
+# RStudi
 Rstudio - testes
